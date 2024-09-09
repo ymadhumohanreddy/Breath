@@ -2,7 +2,7 @@ ppt for project : https://www.canva.com/design/DAFs2uhsJUQ/YMf5S08_j0o0-c98pwVLz
 
 
 
-This project is done for "LAYER 0 HACKATHON" hosted by [BLOCKCHAIN SRM AND GENY SRM](https://discord.gg/XwAF4UGD).
+
 
 
 # What we have here
